@@ -1,6 +1,6 @@
 
 
-# Victor Olayiwola and
+# Victor Olayiwola and Francis Mensah 
 
 ![alt text](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg)
 
@@ -42,4 +42,3 @@ Our shell has support for the following built-in commands:
 | unsetenv [var]      | Remove an environment variable.                                                           |
 | cd [dir]            | Change the directory.                                                                     |
 | help [built-in]     | Read documentation for a built-in.                                                        |
-
